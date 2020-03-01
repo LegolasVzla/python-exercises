@@ -103,3 +103,5 @@ settings.ini
 
 # mypy
 .mypy_cache/
+
+skills_mongo_collection.json
